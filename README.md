@@ -14,9 +14,9 @@ in this course so that we can concentrate on software quality control practices 
 the distractions of graphics, look and feel.
 
 The Front End...
-reads in a list of valid account numbers (1), 
-processes a stream oftransactions one at a time (2), 
-and writes out a summary file of transactions at the end of the day (3)
+- reads in a list of valid account numbers (1), 
+- processes a stream oftransactions one at a time (2), 
+- and writes out a summary file of transactions at the end of the day (3)
 
 Informal Customer Requirements for the Front End
 The Front End handles a sequence of transactions, each of which begins with a single
