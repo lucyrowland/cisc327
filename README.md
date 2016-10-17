@@ -29,3 +29,7 @@ The Front End must handle the following transaction codes:
 - deposit - deposit to an account (ATM transaction) 
 - withdraw - withdraw from an account (ATM transaction) 
 - transfer - transfer between accounts (ATM transaction)
+
+More info can be found here http://research.cs.queensu.ca/~cordy/cisc327/327%20Course%20Project%202016.pdf
+
+CISC 327 full site: http://research.cs.queensu.ca/~cordy/cisc327/
